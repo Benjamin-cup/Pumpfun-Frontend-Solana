@@ -23,6 +23,7 @@ export default function Providers({ children }: { children: ReactNode }) {
   const [isCreated, setIsCreated] = useState(false);
   const [messages, setMessages] = useState<msgInfo[]>([]);
   
+  
   return (
     <SolanaWalletProvider>
       <SocketProvider>

@@ -11,6 +11,7 @@ interface holderInfo {
   holder: userInfo;
   totalAmount: number
 }
+
 export const Holders: React.FC<HolderInfo> = ({ param, coin }) => {
   const [trades, setTrades] = useState<tradeInfo>({} as tradeInfo);
   const [holders, setHolders] = useState<holderInfo[]>([])

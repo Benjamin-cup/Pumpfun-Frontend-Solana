@@ -19,6 +19,7 @@ interface TradingChartProps {
   param: string
 }
 
+
 export const TradingChart: React.FC<TradingChartProps> = ({ param }) => {
   const [isScriptReady, setIsScriptReady] = useState(false);
 
