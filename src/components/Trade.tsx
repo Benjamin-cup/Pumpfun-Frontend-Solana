@@ -5,6 +5,8 @@ interface TradePropsInfo {
   trade: recordInfo;
 }
 
+
+
 export const Trade: React.FC<TradePropsInfo> = ({ trade }) => {
  
   return (

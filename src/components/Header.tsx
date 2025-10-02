@@ -6,6 +6,7 @@ import UserContext from "@/context/UserContext";
 interface HeaderProps {
   staked: number;
 }
+
 const Header: FC = () => {
   return (
     <header className="h-[100px]">
