@@ -20,11 +20,12 @@ Designed to be flexible for developers, enabling easy customization or integrati
 ### 📞 Contact Information
 If you have any questions or need access to the complete system, please reach out:
 
-Email: tom.kinddev@gmail.com
 
-Telegram: @erikerik116
+Gmail: benjamin.bigdev@gmail.com
 
-Discord: @erikerik116
+Telegram: [@SOLBenjaminCup](https://t.me/SOLBenjaminCup)
+
+Discord: [@.benjamincup](https://discord.com/channels/@me/1305610537790476382)
 
 
 ### 🤝 Contribution
